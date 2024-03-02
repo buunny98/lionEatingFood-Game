@@ -1,4 +1,4 @@
-I developed a Lion-Predator game featuring lion-eating fish situated on the floor, adding a unique twist to the gameplay experience. In this engaging simulation, players control lion cubs as the predators, tasked with consuming the fish scattered across the floor. 
+This is a Lion-Predator game featuring lion-eating fish situated on the floor, adding a unique twist to the gameplay experience. In this engaging simulation, players control lion cubs as the predators, tasked with consuming the fish scattered across the floor. 
 
 Additionally, a formidable big lion serves as the hunter, strategically waiting for the predators to draw near so it can seize its opportunity to consume them. Each character possesses individual parameters such as walking speed, size, and health, contributing to the dynamic nature of the game.
 
